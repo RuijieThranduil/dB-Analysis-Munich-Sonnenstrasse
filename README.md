@@ -1,4 +1,5 @@
 # Urban Noise Data – Sonnenstraße, Munich
+![证明声音不同的分析图](https://github.com/user-attachments/assets/617f47af-efc1-4719-8d45-95221199191d)
 
 This repository contains measured urban noise data collected at multiple locations along **Sonnenstraße**, a major street in central Munich, Germany.
 
