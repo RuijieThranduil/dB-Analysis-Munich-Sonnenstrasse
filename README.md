@@ -35,6 +35,8 @@ Each file corresponds to a specific location and contains time-series data of so
 - A danger threshold of **68 dB** was applied to assess urban noise impact.
 - Visualization scripts and annotated charts are available separately.
 
+To see my analysis and diagramms, you have to download this source files and rename the address from |C/xxxx/xxxx/xxx|,which is mine, to your address
+
 ## 🛠 Tools Used
 
 - Python (`pandas`, `matplotlib`, `seaborn`)
